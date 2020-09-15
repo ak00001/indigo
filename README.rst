@@ -1,3 +1,7 @@
+About this fork
+======================================
+This is fork is for testing and organisation of future pull requests against the Indigo theme. _ak
+
 Indigo, a cool blue theme for Open edX
 ======================================
 
